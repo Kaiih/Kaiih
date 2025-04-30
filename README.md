@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Kailane 👋
 
 <!--
 **Kaiih/Kaiih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,5 +21,7 @@ Here are some ideas to get you started:
   <body>
     <title>H</title>
     <img src="{[BadgeURLHere](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)}" />
+    <img src="{https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white}" />
+    
   </body>
 </html>
