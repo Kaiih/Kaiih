@@ -20,6 +20,6 @@ Here are some ideas to get you started:
   </head>
   <body>
     <title>H</title>
-    <img src="[BadgeURLHere](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" />
+    <img src="{[BadgeURLHere](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)}" />
   </body>
 </html>
