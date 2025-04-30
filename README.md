@@ -14,14 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <title>H</title>
-    <img src="{[BadgeURLHere](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)}" />
-    <img src="{https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white}" />
-    
-  </body>
-</html>
+
+<img src="{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" />
