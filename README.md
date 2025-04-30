@@ -14,4 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python)](https://skillicons.dev)   
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <title>H</title>
+    <img src="[BadgeURLHere](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" />
+  </body>
+</html>
